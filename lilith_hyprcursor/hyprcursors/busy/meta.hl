@@ -1,0 +1,18 @@
+resize_algorithm = none
+
+hotspot_x = 0.26
+hotspot_y = 0.26
+
+define_override = busy
+define_override = wait
+define_override = watch
+
+define_size = 64, busy_000.png, 100
+define_size = 64, busy_001.png, 100
+define_size = 64, busy_002.png, 100
+define_size = 64, busy_003.png, 100
+define_size = 64, busy_004.png, 100
+define_size = 64, busy_005.png, 100
+define_size = 64, busy_006.png, 100
+define_size = 64, busy_007.png, 100
+define_size = 64, busy_008.png, 100

@@ -1,0 +1,19 @@
+resize_algorithm = none
+
+hotspot_x = 0.15
+hotspot_y = 0.23
+
+define_override = ibeam
+define_override = xterm
+define_override = text
+
+define_size = 64, text_000.png, 100
+define_size = 64, text_001.png, 100
+define_size = 64, text_002.png, 100
+define_size = 64, text_003.png, 100
+define_size = 64, text_004.png, 100
+define_size = 64, text_005.png, 100
+define_size = 64, text_006.png, 100
+define_size = 64, text_007.png, 100
+define_size = 64, text_008.png, 100
+

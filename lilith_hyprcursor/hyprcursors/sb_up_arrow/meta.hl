@@ -1,0 +1,10 @@
+resize_algorithm = none
+
+hotspot_x = 0.5
+hotspot_y = 0.17
+
+define_override = up-arrow
+
+define_size = 128, sb_up_arrow.png
+
+

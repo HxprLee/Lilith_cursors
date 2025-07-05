@@ -1,0 +1,18 @@
+resize_algorithm = none
+
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = question_arrow
+define_override = help
+define_override = dnd-ask
+
+define_size = 64, help_000.png, 100
+define_size = 64, help_001.png, 100
+define_size = 64, help_002.png, 100
+define_size = 64, help_003.png, 100
+define_size = 64, help_004.png, 100
+define_size = 64, help_005.png, 100
+define_size = 64, help_006.png, 100
+define_size = 64, help_007.png, 100
+define_size = 64, help_008.png, 100

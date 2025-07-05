@@ -1,0 +1,10 @@
+resize_algorithm = none
+
+hotspot_x = 0.01
+hotspot_y = 0.03
+
+define_override = pencil
+define_override = draft
+
+define_size = 128, pencil.png
+

@@ -1,0 +1,23 @@
+resize_algorithm = none
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = nwse-resize
+define_override = size_fdiag
+define_override = nw-resize
+define_override = se-resize
+define_override = c7088f0f3e6c8088236ef8e1e3e70000
+define_override = bottom_right_corner
+define_override = top_left_corner
+
+define_size = 64, bd_double_arrow_000.png, 100
+define_size = 64, bd_double_arrow_001.png, 100
+define_size = 64, bd_double_arrow_002.png, 100
+define_size = 64, bd_double_arrow_003.png, 100
+define_size = 64, bd_double_arrow_004.png, 100
+define_size = 64, bd_double_arrow_005.png, 100
+define_size = 64, bd_double_arrow_006.png, 100
+define_size = 64, bd_double_arrow_007.png, 100
+define_size = 64, bd_double_arrow_008.png, 100
+

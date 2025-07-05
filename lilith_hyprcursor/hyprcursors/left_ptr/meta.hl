@@ -1,0 +1,28 @@
+resize_algorithm = none
+
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_size = 64, left_ptr_000.png, 100
+define_size = 64, left_ptr_001.png, 100
+define_size = 64, left_ptr_002.png, 100
+define_size = 64, left_ptr_003.png, 100
+define_size = 64, left_ptr_004.png, 100
+define_size = 64, left_ptr_005.png, 100
+define_size = 64, left_ptr_006.png, 100
+define_size = 64, left_ptr_007.png, 100
+define_size = 64, left_ptr_008.png, 100
+
+define_override = arrow
+define_override = top_left_arrow
+define_override = context-menu
+define_override = copy
+define_override = default
+define_override = closedhand
+define_override = grabbing
+define_override = dnd-move
+define_override = 4498f0e0c1937ffe01fd06f973665830
+define_override = pointer_move
+define_override = 9081237383d90e509aa00f00170e968f
+define_override = fcf21c00b30f7e3f83fe0dfd12e71cff
+define_override = dnd-none

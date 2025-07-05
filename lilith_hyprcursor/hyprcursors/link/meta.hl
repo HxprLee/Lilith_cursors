@@ -1,0 +1,25 @@
+resize_algorithm = none
+
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = 3085a0e285430894940527032f8b26df
+define_override = a2a266d0498c3104214a47bd64ab0fc8
+define_override = alias
+define_override = dnd-link
+define_override = 640fb0e74195791501fd1ed57b41487f
+define_override = 9d800788f1b08800ae810202380a0822
+define_override = pointer
+define_override = pointing_hand
+define_override = e29285e634086352946a0e7090d73106
+define_override = hand2
+
+define_size = 64, link_000.png, 100
+define_size = 64, link_001.png, 100
+define_size = 64, link_002.png, 100
+define_size = 64, link_003.png, 100
+define_size = 64, link_004.png, 100
+define_size = 64, link_005.png, 100
+define_size = 64, link_006.png, 100
+define_size = 64, link_007.png, 100
+define_size = 64, link_008.png, 100
