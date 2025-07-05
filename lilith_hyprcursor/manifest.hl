@@ -1,4 +1,4 @@
-name = Lilith-cursor
+name = Lilith_cursor
 description = Port from offical Lilith cursors from the game 'The NOexistenceN of you AND me' for Windows
-version = 1
+version = 0.1
 cursors_directory = hyprcursors
