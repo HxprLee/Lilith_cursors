@@ -16,7 +16,7 @@ I have only ported to hyprcursor format, the XCursor format is still WIP
 - If you're using hyprcursor: Run `hyprctl setcursor Lilith_cursor [CURSOR_SIZE]` or set the following environment variable in `hyprland.conf`
 
 ```
-env = HYPRCURSOR_THEME,Lilith-cursor 
+env = HYPRCURSOR_THEME,Lilith_cursor 
 env = HYPRCURSOR_SIZE,[CURSOR_SIZE]
 ```
 - If you're using XCursor: No installation guide, it's not even done yet
