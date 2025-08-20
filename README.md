@@ -1,6 +1,6 @@
 # Lilith-cursors
 ![thumbnail](/.img/image.png)
-#### Offical Lilith cursor for Windows from the game 'The NOexistenceN of you AND me' ported to Linux
+#### Official Lilith cursor for Windows from the game 'The NOexistenceN of you AND me' ported to Linux
 ###### I like cute anime girls so I did anyways
 Original: https://store.steampowered.com/news/app/2873080/view/514087351520068476?snr=1_5_9_
 
