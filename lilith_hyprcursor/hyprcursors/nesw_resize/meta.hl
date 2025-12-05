@@ -1,0 +1,18 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = nesw_resize
+define_override = ne_resize
+define_override = sw_resize
+
+define_size = 32, nesw_resize_000.png, 100
+define_size = 32, nesw_resize_001.png, 100
+define_size = 32, nesw_resize_002.png, 100
+define_size = 32, nesw_resize_003.png, 100
+define_size = 32, nesw_resize_004.png, 100
+define_size = 32, nesw_resize_005.png, 100
+define_size = 32, nesw_resize_006.png, 100
+define_size = 32, nesw_resize_007.png, 100
+define_size = 32, nesw_resize_008.png, 100

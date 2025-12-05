@@ -1,0 +1,23 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = default
+define_override = context-menu
+define_override = dnd-none
+define_override = grab
+define_override = grabbing
+define_override = alias
+define_override = copy
+define_override = move
+
+define_size = 32, default_000.png, 100
+define_size = 32, default_001.png, 100
+define_size = 32, default_002.png, 100
+define_size = 32, default_003.png, 100
+define_size = 32, default_004.png, 100
+define_size = 32, default_005.png, 100
+define_size = 32, default_006.png, 100
+define_size = 32, default_007.png, 100
+define_size = 32, default_008.png, 100

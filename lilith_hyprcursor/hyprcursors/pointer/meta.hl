@@ -1,0 +1,16 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.0
+hotspot_y = 0.0
+
+define_override = pointer
+
+define_size = 32, pointer_000.png, 100
+define_size = 32, pointer_001.png, 100
+define_size = 32, pointer_002.png, 100
+define_size = 32, pointer_003.png, 100
+define_size = 32, pointer_004.png, 100
+define_size = 32, pointer_005.png, 100
+define_size = 32, pointer_006.png, 100
+define_size = 32, pointer_007.png, 100
+define_size = 32, pointer_008.png, 100

@@ -1,0 +1,19 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = row_resize
+define_override = n_resize
+define_override = s_resize
+define_override = ns_resize
+
+define_size = 32, row_resize_000.png, 100
+define_size = 32, row_resize_001.png, 100
+define_size = 32, row_resize_002.png, 100
+define_size = 32, row_resize_003.png, 100
+define_size = 32, row_resize_004.png, 100
+define_size = 32, row_resize_005.png, 100
+define_size = 32, row_resize_006.png, 100
+define_size = 32, row_resize_007.png, 100
+define_size = 32, row_resize_008.png, 100

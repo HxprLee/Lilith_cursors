@@ -1,23 +1,19 @@
-resize_algorithm = none
+resize_algorithm = nearest
 
 hotspot_x = 0.21
 hotspot_y = 0.21
 
 define_override = no-drop
-define_override = 03b6e0fcb3499374a867c041f52298f0
 define_override = dnd-no-drop
-define_override = circle
 define_override = forbidden
 define_override = not-allowed
-define_override = wayland-cursor
-define_override = X_cursor
 
-define_size = 64, forbidden_000.png, 100
-define_size = 64, forbidden_001.png, 100
-define_size = 64, forbidden_002.png, 100
-define_size = 64, forbidden_003.png, 100
-define_size = 64, forbidden_004.png, 100
-define_size = 64, forbidden_005.png, 100
-define_size = 64, forbidden_006.png, 100
-define_size = 64, forbidden_007.png, 100
-define_size = 64, forbidden_008.png, 100
+define_size = 32, forbidden_000.png, 100
+define_size = 32, forbidden_001.png, 100
+define_size = 32, forbidden_002.png, 100
+define_size = 32, forbidden_003.png, 100
+define_size = 32, forbidden_004.png, 100
+define_size = 32, forbidden_005.png, 100
+define_size = 32, forbidden_006.png, 100
+define_size = 32, forbidden_007.png, 100
+define_size = 32, forbidden_008.png, 100

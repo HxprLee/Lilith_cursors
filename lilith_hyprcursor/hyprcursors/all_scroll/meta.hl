@@ -1,0 +1,19 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = all_scroll
+define_override = all_resize
+
+define_size = 32, all_scroll_000.png, 100
+define_size = 32, all_scroll_001.png, 100
+define_size = 32, all_scroll_002.png, 100
+define_size = 32, all_scroll_003.png, 100
+define_size = 32, all_scroll_004.png, 100
+define_size = 32, all_scroll_005.png, 100
+define_size = 32, all_scroll_006.png, 100
+define_size = 32, all_scroll_007.png, 100
+define_size = 32, all_scroll_008.png, 100
+
+

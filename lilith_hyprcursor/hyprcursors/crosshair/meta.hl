@@ -1,0 +1,19 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.23
+hotspot_y = 0.23
+
+define_override = tcross
+define_override = crosshair
+define_override = color-picker
+
+define_size = 32, crosshair_000.png, 100
+define_size = 32, crosshair_001.png, 100
+define_size = 32, crosshair_002.png, 100
+define_size = 32, crosshair_003.png, 100
+define_size = 32, crosshair_004.png, 100
+define_size = 32, crosshair_005.png, 100
+define_size = 32, crosshair_006.png, 100
+define_size = 32, crosshair_007.png, 100
+define_size = 32, crosshair_008.png, 100
+

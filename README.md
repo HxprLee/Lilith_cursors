@@ -22,5 +22,7 @@ env = HYPRCURSOR_SIZE,[CURSOR_SIZE]
 - If you're using XCursor: No installation guide, it's not even done yet
 
 ## Notes
-- **I don't know if this is only occured on my system or it's also on every hyprland user but after compiling the cursor to hyprcursor and apply it, the cursor would be very big and changing to smaller size crashes my Hyprland**
+- **~~I don't know if this is only occured on my system or it's also on every hyprland user but after compiling the cursor to hyprcursor and apply it, the cursor would be very big and changing to smaller size crashes my Hyprland~~ Fixed by changing resize_algorithm to nearest and cursors size to 32**
+- **The smallest cursors size you could set is 32, anything below that will crop the cursors**
+
 - **Some cursor types may be missing, incorrect, or revert back to your already set XCursor theme of the cursor type, I may have missed some of the cursors and the source cursor doesn't have that much diversity of cursor variants**

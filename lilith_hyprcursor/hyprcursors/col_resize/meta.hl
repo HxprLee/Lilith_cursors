@@ -1,0 +1,20 @@
+resize_algorithm = nearest
+
+hotspot_x = 0.5
+hotspot_y = 0.5
+
+define_override = col_resize
+define_override = w_resize
+define_override = e_resize
+define_override = ew_resize
+
+define_size = 32, col_resize_000.png, 100
+define_size = 32, col_resize_001.png, 100
+define_size = 32, col_resize_002.png, 100
+define_size = 32, col_resize_003.png, 100
+define_size = 32, col_resize_004.png, 100
+define_size = 32, col_resize_005.png, 100
+define_size = 32, col_resize_006.png, 100
+define_size = 32, col_resize_007.png, 100
+define_size = 32, col_resize_008.png, 100
+
