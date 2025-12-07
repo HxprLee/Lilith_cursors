@@ -1,9 +1,0 @@
-resize_algorithm = none
-
-hotspot_x = 0.17
-hotspot_y = 0.5
-
-define_override = left-arrow
-
-define_size = 128, sb_left_arrow.png
-
